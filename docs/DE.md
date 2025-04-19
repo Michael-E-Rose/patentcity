@@ -2,7 +2,7 @@
 
 ## Background
 
-The German Patent and Trade Mark Office (DPMO) was founded in 1877. The first patent was granted as early as July 2, 1877. There was (close to) no patent published between 1945 and 1950. The 1949-1992 period is characterised by the split of Germany in two distinct countries (BDR and DDR) and consequently the split of the patent system as well. After that date, the two offices reunified into the DPMO.
+The German Imperial Patent Office was founded in 1877. The first patent was granted as early as July 2, 1877. There was (close to) no patent published between 1945 and 1950. The 1949-1992 period is characterised by the split of Germany in two distinct countries (BDR and DDR) and consequently the split of the patent system as well. In 1990, the West-German "Patentamt" and the East-German "Amt für Erfindungs- und Patentwesen der DDR" fusioned. In 1998, it was renamed to "Deutsches Patent- und Markenamt" (DPMA).
 
 ## 📚 Data
 
