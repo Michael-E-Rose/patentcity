@@ -2,13 +2,13 @@
 
 ## Problem
 
-Before 1919 (incl), the publication date of DE patents is missing.
+Before 1919 (incl.), the publication date of DE patents is missing.
 Frontier is fuzzy, patents publication numbers are not exactly chronological but nearly. This makes it hard to manually find the latest publication number for each vintage. Number seem to be given based on the "Patentdatum".
 
 ## Approach
 
 We look in the corpus of patents to find the latest publication number for each given year from 1877 to 1920.
-We use the patent gazette published par the German patent offices ("PatentBlat") and consider the largest publication number specified under section "Erteilungen". The gazette is published weekly and we consider either week 52 or week 53 of each year from 1878 to 1919 (and 51 for 1918).
+We use the patent gazette published par the Imperial German patent office ("Patent-Blatt") and consider the largest publication number specified under section "Erteilungen". The gazette is published weekly and we consider either week 52 or week 53 of each year from 1878 to 1919 (and 51 for 1918).
 From these benchmark patents, we carry forward the year of publication.
 
 !!! warning
